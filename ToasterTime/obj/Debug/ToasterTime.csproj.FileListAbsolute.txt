@@ -1,0 +1,13 @@
+c:\users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\bin\Debug\ToasterTime.exe.config
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\bin\Debug\ToasterTime.exe
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\bin\Debug\ToasterTime.pdb
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\ToasterTime.csprojResolveAssemblyReference.cache
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\MainWindow.baml
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\MainWindow.g.cs
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\App.g.cs
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\ToasterTime_MarkupCompile.cache
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\ToasterTime.g.resources
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\ToasterTime.Properties.Resources.resources
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\ToasterTime.csproj.GenerateResource.Cache
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\ToasterTime.exe
+C:\Users\caryk\documents\visual studio 2012\Projects\ToasterTime\ToasterTime\obj\Debug\ToasterTime.pdb
